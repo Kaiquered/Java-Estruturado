@@ -3,17 +3,17 @@ package matriz.aplication;
 import java.util.Scanner;
 
 /* Programa que lê uma matriz NxM de inteiros e um número inteiro pertencente a matriz
- * mostrando os números a esquerda, a direita, acima, e baixo do número digitado.
+ * mostrando os números a esquerda, a diinputita, acima, e baixo do número digitado.
  */
 
 public class ProgramMatriz {
 
 	public static void main(String[] args) {
-		Scanner re = new Scanner(System.in);
+		Scanner input = new Scanner(System.in);
 
 		System.out.println("Digite o número de linhas e colunas da matriz: ");
-		int n = re.nextInt();
-		int m = re.nextInt();
+		int n = input.nextInt();
+		int m = input.nextInt();
 
 		int[][] matriz = new int[n][m];
 
@@ -22,12 +22,12 @@ public class ProgramMatriz {
 		for (int i = 0; i < n; i++) {
 			for (int j = 0; j < m; j++)
 
-				matriz[i][j] = re.nextInt();
+				matriz[i][j] = input.nextInt();
 
 		}
 
 		System.out.println("Digite um número pertecente a matriz: ");
-		int num = re.nextInt();
+		int num = input.nextInt();
 
 		for (int i = 0; i < n; i++) {
 			for (int j = 0; j < m; j++) {
@@ -49,6 +49,6 @@ public class ProgramMatriz {
 			}
 
 		}
-		re.close();
+		input.close();
 	}
 }
