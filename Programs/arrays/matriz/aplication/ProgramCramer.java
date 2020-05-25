@@ -1,6 +1,10 @@
 package matriz.aplication;
 
-//Programa que aplica a Regra de Crammer em uma matriz exemplo.
+/* *******************************
+ * Programa que aplica a Regra de Crammer em uma matriz exemplo.
+ * 
+ * *******************************
+ */
 
 public class ProgramCramer {
 
