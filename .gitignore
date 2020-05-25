@@ -29,12 +29,13 @@ tmp/
 *.bak
 *.swp
 *~.nib
+*.classpath
+*.project
 local.properties
 .settings/
 .loadpath
 .recommenders
-.classpath
-.project
+
 
 # External tool builders
 .externalToolBuilders/
