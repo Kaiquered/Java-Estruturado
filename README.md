@@ -9,7 +9,7 @@ Prog3 - [Múltiplos](https://github.com/Kaiquered/Treinamento-Java-Estruturado/b
 Prog4 - [Duração do Jogo](https://github.com/Kaiquered/Treinamento-Java-Estruturado/blob/master/Programs/if-else-switch/Prog4.java)
 Prog5 - [Conta a pagar](https://github.com/Kaiquered/Treinamento-Java-Estruturado/blob/master/Programs/if-else-switch/Prog5.java)
 Prog6 - [Está no Intervalo?](https://github.com/Kaiquered/Treinamento-Java-Estruturado/blob/master/Programs/if-else-switch/Prog6.java)
-Prog7 - [Encontrando o Quadrante I](https://github.com/Kaiquered/Treinamento-Java-Estruturado/blob/master/Programs/if-else-switch/Prog7.java)
+Prog7 - [Encontrando o Quadrante 1.0](https://github.com/Kaiquered/Treinamento-Java-Estruturado/blob/master/Programs/if-else-switch/Prog7.java)
 
 ### Estrutura de Repetição
 
@@ -22,6 +22,6 @@ For6 - [Os Divisores](https://github.com/Kaiquered/Treinamento-Java-Estruturado/
 For7 - [Quadrados e Cubos](https://github.com/Kaiquered/Treinamento-Java-Estruturado/blob/master/Programs/loops/ForQ7.java)
 WhileQ1 - [Validação de Senha](https://github.com/Kaiquered/Treinamento-Java-Estruturado/blob/master/Programs/loops/WhileQ1.java)
 WhileQ2 - [Álcool, Gasolina e Diesel](https://github.com/Kaiquered/Treinamento-Java-Estruturado/blob/master/Programs/loops/WhileQ2.java)
-WhileQ3 - [Encontrando o Quadrante II](https://github.com/Kaiquered/Treinamento-Java-Estruturado/blob/master/Programs/loops/WhileQ3.java)
+WhileQ3 - [Encontrando o Quadrante 1.1](https://github.com/Kaiquered/Treinamento-Java-Estruturado/blob/master/Programs/loops/WhileQ3.java)
 
 
