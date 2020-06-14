@@ -20,8 +20,8 @@ For4 - [Dividindo Inteiros](https://github.com/Kaiquered/Treinamento-Java-Estrut
 For5 - [Fatorial](https://github.com/Kaiquered/Treinamento-Java-Estruturado/blob/master/Programs/loops/ForQ5.java)
 For6 - [Os Divisores](https://github.com/Kaiquered/Treinamento-Java-Estruturado/blob/master/Programs/loops/ForQ6.java)
 For7 - [Quadrados e Cubos](https://github.com/Kaiquered/Treinamento-Java-Estruturado/blob/master/Programs/loops/ForQ7.java)
-
-
-
+WhileQ1 - [Validação de Senha](https://github.com/Kaiquered/Treinamento-Java-Estruturado/blob/master/Programs/loops/WhileQ1.java)
+WhileQ2 - [Álcool, Gasolina e Diesel](https://github.com/Kaiquered/Treinamento-Java-Estruturado/blob/master/Programs/loops/WhileQ2.java)
+WhileQ3 - [Identificando Quadrante](https://github.com/Kaiquered/Treinamento-Java-Estruturado/blob/master/Programs/loops/WhileQ3.java)
 
 
