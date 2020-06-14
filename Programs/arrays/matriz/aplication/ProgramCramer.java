@@ -1,10 +1,10 @@
 /*
  ****************************************************************
- Programa: Regra de Crammer
+ Programa: Regra de Cramer
  
  Autor: Kaíque Gomes Machado
     
- Descrição: aplica a Regra de Crammer em um sistema linear 3x3
+ Descrição: aplica a Regra de Cramer em um sistema linear 3x3
  definido pelo programa.
  
  17/05/2020
