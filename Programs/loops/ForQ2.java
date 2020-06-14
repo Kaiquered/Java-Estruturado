@@ -1,8 +1,18 @@
-import java.util.Scanner;
-
-/*Leia um valor inteiro N. Este valor será a quantidade de valores inteiros X que serão lidos em seguida.
-Mostre quantos destes valores X estão dentro do intervalo [10,20] e quantos estão fora do intervalo, mostrando
+/*
+ ***********************************************************************************
+ Programa: Intervalo [10,20]
+ 
+ Autor: Kaíque Gomes Machado
+    
+ Descrição: lê um valor inteiro N. Este valor será a quantidade de valores inteiros
+ X que serão lidos em seguida. Depois mostra qual destes valores X estão dentro do 
+ intervalo [10,20] e quantos estão fora do intervalo.
+  
+ 01/05/2020
+ ***********************************************************************************
  */
+
+import java.util.Scanner;
 
 public class ForQ2 {
 
@@ -12,8 +22,10 @@ public class ForQ2 {
 
 		int N = 0, x = 0, in = 0, out = 0;
 
-		System.out.println("Digite um número:");
+		System.out.print("Digite a quantidade de números: ");
 		N = input.nextInt();
+		
+		System.out.println("Digite X números:");
 
 		for (int i = 0; i < N; i++) {
 

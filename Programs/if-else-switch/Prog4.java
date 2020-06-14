@@ -1,14 +1,14 @@
 /*
- ********************************************
+ ****************************************************
  Programa: Duração do Jogo
  
  Autor: Kaíque Gomes Machado
     
- Descrição: lê a hora inicial e final de um 
- jogo para calcular a duração dele.
+ Descrição: lê a hora inicial e final de um  jogo 
+ para calcular a duração dele.
  
  01/05/2020
- ********************************************
+ ****************************************************
  */
 
 import java.util.Scanner;

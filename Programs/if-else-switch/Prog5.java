@@ -1,14 +1,14 @@
 /*
- **********************************************
+ ***************************************************************************************
  Programa: Conta a pagar
  
  Autor: Kaíque Gomes Machado
     
- Descrição: lê o código de um produto e a 
- quantidade dele para informa a conta a pagar.
+ Descrição: lê o código de um produto e a quantidade dele para informa a conta a pagar.
+ O código deve estar de 1 até 5 e o preço já está definido.
  
  01/05/2020
- **********************************************
+ ***************************************************************************************
  */
 
 import java.util.Scanner;

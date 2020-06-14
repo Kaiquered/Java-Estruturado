@@ -20,15 +20,15 @@ public class Prog2 {
 
 		int num = 0;
 
-		System.out.println("Digite um número:");
+		System.out.print("Digite um número: ");
 
 		num = input.nextInt();
 
 		if (num % 2 == 0)
-			System.out.println(num + " é um número par!");
+			System.out.println("\n" + num + " é um número par!");
 
 		else
-			System.out.println(num + " é um número ímpar!");
+			System.out.println("\n" + num + " é um número ímpar!");
 
 		input.close();
 

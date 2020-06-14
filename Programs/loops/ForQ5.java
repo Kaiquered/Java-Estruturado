@@ -1,6 +1,16 @@
-import java.util.Scanner;
+/*
+ *********************************************************
+ Programa: Fatorial
+ 
+ Autor: Kaíque Gomes Machado
+    
+ Descrição: programa que calcula o fatorial de um número.
+  
+ 01/05/2020
+ *********************************************************
+ */
 
-//programa que calcula o fatorial de um número
+import java.util.Scanner;
 
 public class ForQ5 {
 
@@ -8,7 +18,7 @@ public class ForQ5 {
 
 		Scanner input = new Scanner(System.in);
 
-		System.out.println("Digite um número: ");
+		System.out.print("Digite um número: ");
 
 		int n = input.nextInt();
 		int fat = 1;
@@ -16,7 +26,7 @@ public class ForQ5 {
 		for (int i = 0; i < (n - 1); i++)
 			fat *= (n - i);
 
-		System.out.printf("O Fatorial de %d é %d", n, fat);
+		System.out.printf("O Fatorial de %d é %d.", n, fat);
 
 		input.close();
 	}

@@ -1,15 +1,26 @@
+/*
+ **********************************************************************
+ Programa: Quadrados e Cubos
+ 
+ Autor: Kaíque Gomes Machado
+    
+ Descrição: mostra na tela N linhas, começando de 1 até N. 
+ Para cada linha, mostra o número da linha, depois o quadrado e o cubo 
+ do valor posição da linha.
+  
+ 01/05/2020
+ **********************************************************************
+ */
+
 import java.util.Scanner;
 
-/*O programa deve mostrar na tela N linhas, começando de 1 até N. Para cada linha, mostra o número da linha, 
- * depois o quadrado e o cubo do valor.
- */
 public class ForQ7 {
 
 	public static void main(String[] args) {
 
 		Scanner input = new Scanner(System.in);
 
-		System.out.println("Digite um número:");
+		System.out.print("Digite o número de linhas: ");
 
 		int n = input.nextInt();
 

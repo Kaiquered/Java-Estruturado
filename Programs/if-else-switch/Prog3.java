@@ -1,13 +1,14 @@
 /*
- ********************************************
+ ****************************************************
  Programa: Múltiplos
  
  Autor: Kaíque Gomes Machado
     
- Descrição: diz se dois números sãos múltiplos.
+ Descrição: diz se dois números sãos múltiplos mesmo 
+ se digitados em ordem contrária.
  
  01/05/2020
- ********************************************
+ ****************************************************
  */
 
 import java.util.Scanner;
@@ -20,19 +21,19 @@ public class Prog3 {
 
 		int num1 = 0, num2 = 0;
 
-		System.out.println("Digite dois números:");
+		System.out.print("Digite dois números: ");
 
 		num1 = input.nextInt();
 		num2 = input.nextInt();
 
 		if (num1 % num2 == 0)
-			System.out.println("São múltiplos!");
+			System.out.println("\nSão múltiplos!");
 
 		else if (num2 % num1 == 0)
-			System.out.println("São múltiplos!");
+			System.out.println("\nSão múltiplos!");
 
 		else
-			System.out.println("Não são múltiplos!");
+			System.out.println("\nNão são múltiplos!");
 
 		input.close();
 

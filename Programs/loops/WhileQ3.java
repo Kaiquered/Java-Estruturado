@@ -1,34 +1,48 @@
-import java.util.Scanner;
+/*
+ ******************************************************************
+ Programa: Identificando Quadrante
+ 
+ Autor: Kaíque Gomes Machado
+    
+ Descrição: lê um ponto no plano cartesiano e diz o quadrante dele
+ até ser digitado pelo menos uma coordenada nula.
+  
+ 01/05/2020
+ ******************************************************************
+ */
 
-//programa que lê um ponto no plano cartesiano e diz o quadrante em que está até ser digitado pelo menos uma coordenada nula.
+import java.util.Locale;
+import java.util.Scanner;
 
 public class WhileQ3 {
 
 	public static void main(String[] args) {
 		
+		Locale.setDefault(Locale.US);
+		
 		Scanner input = new Scanner(System.in);
 
-		int x = 1, y = 1;
+		float x = 1, y = 1;
 
 		while (x != 0 && y != 0) {
 
-			System.out.println("Digite as coordenadas X e Y:");
+			System.out.print("Digite as coordenadas X e Y: ");
 
-			x = input.nextInt();
-			y = input.nextInt();
+			x = input.nextFloat();
+			y = input.nextFloat();
 
 			if (x > 0 && y > 0)
-				System.out.println("Primeiro Quadrante!");
+				System.out.println("\nPrimeiro Quadrante!\n");
 			if (x < 0 && y > 0)
-				System.out.println("Segundo Quadrante!");
+				System.out.println("\nSegundo Quadrante!\n");
 			if (x < 0 && y < 0)
-				System.out.println("Terceiro Quadrante!");
+				System.out.println("\nTerceiro Quadrante!\n");
 			if (x > 0 && y < 0)
-				System.out.println("Quarto Quadrante!");
+				System.out.println("\nQuarto Quadrante!\n");
 
 		}
 		
-		System.out.println("Você digitou uma coordenada nula.");
+		System.out.println("\nVocê digitou uma coordenada nula.");
 		
 		input.close();
 	}

@@ -1,10 +1,18 @@
+/*
+ *****************************************************************
+ Programa: Média Ponderada de três números.
+ 
+ Autor: Kaíque Gomes Machado
+    
+ Descrição: média ponderada de três números com pesos 2, e 3 e 5.
+  
+ 01/05/2020
+ *****************************************************************
+ */
+
 import java.util.Locale;
 
 import java.util.Scanner;
-
-/*Programa pede ao usuário a quantidade de números que ele irá digitar, em seguida calcula a média ponderada
- * desses valores a serem inseridos.
-*/
 
 public class ForQ3 {
 
@@ -13,10 +21,10 @@ public class ForQ3 {
 		Locale.setDefault(Locale.US);
 
 		Scanner input = new Scanner(System.in);
+		
+		System.out.println("Digite três números: ");
 
-		int n = input.nextInt();
-
-		for (int i = 0; i < n; i++) {
+		for (int i = 0; i < 3; i++) {
 
 			double a = input.nextDouble();
 
@@ -24,9 +32,9 @@ public class ForQ3 {
 
 			double c = input.nextDouble();
 
-			double media = (a * 2.0 + b * 3.0 + c * 5.0) / 10.0;
+			double mediaP = (a * 2.0 + b * 3.0 + c * 5.0) / 10.0;
 
-			System.out.printf("%.1f%n", media);
+			System.out.printf("Média Ponderada: %.1f%n", mediaP);
 
 		}
 

@@ -21,7 +21,7 @@ public class Prog7 {
 
 		double x = 0.0, y = 0.0;
 
-		System.out.println("Insira as coordenadas X e Y:");
+		System.out.print("Insira as coordenadas X e Y: ");
 
 		x = input.nextDouble();
 		y = input.nextDouble();

@@ -1,15 +1,14 @@
 /*
- *********************************************
- Programa: Conta a pagar
+ ***************************************************************************
+ Programa: Está no intervalo?
  
  Autor: Kaíque Gomes Machado
     
- Descrição: identifica se um valor de entrada
- pertence a um dos intervalos definidos pelo 
- programa.
+ Descrição: identifica se um valor de entrada  pertence a um dos intervalos
+ definidos pelo  programa.
  
  01/05/2020
- *********************************************
+ ***************************************************************************
  */
 
 import java.util.Locale;
@@ -25,7 +24,7 @@ public class Prog6 {
 
 		double num = 0.0;
 
-		System.out.println("Digite um número:");
+		System.out.print("Digite um número: ");
 		num = input.nextDouble();
 
 		if (num < 0 || num > 100) {

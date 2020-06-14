@@ -1,8 +1,18 @@
-import java.util.Scanner;
-
-/*Programa que contabiliza o acúmulo de opções escolhidas de  Álcool, Gasolina e Diesel
- * até ser digitado a opção 4, em seguida mostra o resultado.
+/*
+ ********************************************************************
+ Programa: Álcool, Gasolina e Diesel
+ 
+ Autor: Kaíque Gomes Machado
+    
+ Descrição: contabiliza o acúmulo de opções escolhidas de Álcool(1), 
+ Gasolina(2) e Diesel(3)  até ser digitado a opção 4, em seguida, 
+ mostra o resultado.
+  
+ 01/05/2020
+ ********************************************************************
  */
+
+import java.util.Scanner;
 
 public class WhileQ2 {
 
@@ -14,7 +24,7 @@ public class WhileQ2 {
 				
 		while (item != 4) {
 			
-			System.out.println("Digite a opção:");
+			System.out.print("Digite a opção: ");
 			
 			item = input.nextInt();
 			
@@ -27,7 +37,7 @@ public class WhileQ2 {
 		
 		}
    
-		System.out.println("Muito Obrigado!");
+		System.out.println("\nMuito Obrigado!\n");
 		System.out.printf("Álcool:%d \nGasolina:%d \nDiesel:%d",a,g,d);
 		
 		input.close();

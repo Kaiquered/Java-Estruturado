@@ -1,6 +1,16 @@
-import java.util.Scanner;
+/*
+ *********************************************************************
+ Programa: Os Divisores
+ 
+ Autor: Kaíque Gomes Machado
+    
+ Descrição: lê um número inteiro N e calcula todos os seus divisores.
+  
+ 01/05/2020
+ *********************************************************************
+ */
 
-//Ler um número inteiro N e calcular todos os seus divisores.
+import java.util.Scanner;
 
 public class ForQ6 {
 
@@ -8,7 +18,7 @@ public class ForQ6 {
 
 		Scanner input = new Scanner(System.in);
 
-		System.out.println("Digite um número:");
+		System.out.print("Digite um número: ");
 		int n = input.nextInt();
 
 		System.out.printf("Divisores de %d:", n);

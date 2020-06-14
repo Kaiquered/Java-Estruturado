@@ -1,6 +1,17 @@
-import java.util.Scanner;
+/*
+ ******************************************************************
+ Programa: Validação de Senha
+ 
+ Autor: Kaíque Gomes Machado
+    
+ Descrição: repete a leitura de uma senha já gravada até que ela 
+ seja válida.
+  
+ 01/05/2020
+ ******************************************************************
+ */
 
-//programa que repete a leitura de uma senha até que ela seja válida.
+import java.util.Scanner;
 
 public class WhileQ1 {
 
@@ -8,14 +19,14 @@ public class WhileQ1 {
 		
 		Scanner input = new Scanner(System.in);
 
-		System.out.println("Digite a senha:");
+		System.out.print("Digite a senha: ");
 		int senha = input.nextInt();
 
 		while (senha != 2002) {
 
 			System.out.println("Senha Inválida!");
-			
-			System.out.println("Digite a senha novamente:");
+			     
+			System.out.println("\nDigite a senha novamente:");
 			senha = input.nextInt();
 		}
 		

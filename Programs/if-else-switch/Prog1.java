@@ -19,18 +19,18 @@ public class Prog1 {
 
 		int num = 0;
 
-		System.out.println("Digite um número inteiro:");
+		System.out.print("Digite um número inteiro: ");
 
 		num = input.nextInt();
 
 		if (num > 0)
-			System.out.println(num + " é um número positivo!");
+			System.out.println("\n" + num + " é um número positivo!");
 
 		else if (num == 0)
-			System.out.println(num + " é um número nulo!");
+			System.out.println("\n" + num + " é um número nulo!");
 
 		else
-			System.out.println(num + " é um número negativo!");
+			System.out.println("\n" + num + " é um número negativo!");
 
 		input.close();
 

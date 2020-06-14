@@ -1,8 +1,18 @@
+/*
+ ************************************************************************************
+ Programa: Dividindo
+ 
+ Autor: Kaíque Gomes Machado
+    
+ Descrição: lê N pares de números e mostra a divisão do primeiro pelo segundo. Se o 
+ denominador for igual a zero, mostrar a mensagem "divisao impossivel".
+  
+ 01/05/2020
+ ************************************************************************************
+ */
+
 import java.util.Scanner;
 
-/* * Programa que lê N pares de números e mostra a divisão do primeiro pelo
-segundo. Se o denominador for igual a zero, mostrar a mensagem "divisao impossivel".
- */
 public class ForQ4 {
 
 	public static void main(String[] args) {

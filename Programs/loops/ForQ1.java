@@ -1,8 +1,18 @@
-import java.util.Scanner;
+/*
+ ************************************************************
+ Programa: Ímpares do Intervalo
+ 
+ Autor: Kaíque Gomes Machado
+    
+ Descrição: lê um valor inteiro X (1 <= X <= 1000). Depois,
+ mostra os ímpares de 1 até X, um valor por linha, inclusive 
+ o X, se for o caso. 
+ 
+ 01/05/2020
+ ************************************************************
+ */
 
-/*Leia um valor inteiro X (1 <= X <= 1000). Em seguida mostre os ímpares de 1 até X, um valor por linha, inclusive o
-X, se for o caso.
-*/
+import java.util.Scanner;
 
 public class ForQ1 {
 
@@ -12,7 +22,7 @@ public class ForQ1 {
 
 		int x = 0;
 		
-		System.out.println("Digite um número:");
+		System.out.print("Digite um número: ");
 		
 		x = input.nextInt();
 
