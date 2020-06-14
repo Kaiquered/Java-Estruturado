@@ -10,12 +10,15 @@
  ********************************************
  */
 
+import java.util.Locale;
 import java.util.Scanner;
 
 public class Prog2 {
 
 	public static void main(String[] args) {
 
+		Locale.setDefault(Locale.US);
+		
 		Scanner input = new Scanner(System.in);
 
 		int num = 0;

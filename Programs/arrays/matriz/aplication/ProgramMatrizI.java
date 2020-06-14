@@ -14,11 +14,15 @@
 
 package matriz.aplication;
 
+import java.util.Locale;
 import java.util.Scanner;
 
 public class ProgramMatrizI {
 
 	public static void main(String[] args) {
+		
+		Locale.setDefault(Locale.US);
+				
 		Scanner input = new Scanner(System.in);
 
 		System.out.println("Digite o número de linhas e colunas da matriz: ");

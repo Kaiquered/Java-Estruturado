@@ -12,12 +12,15 @@
  ***********************************************************************************
  */
 
+import java.util.Locale;
 import java.util.Scanner;
 
 public class ForQ2 {
 
 	public static void main(String[] args) {
 
+		Locale.setDefault(Locale.US);
+		
 		Scanner input = new Scanner(System.in);
 
 		int N = 0, x = 0, in = 0, out = 0;
