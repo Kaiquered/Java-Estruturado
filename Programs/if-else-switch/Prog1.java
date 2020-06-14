@@ -1,6 +1,15 @@
+/*
+ ************************************************************************
+ Programa: Positivo ou Negativo?
+ 
+ Autor: Kaíque Gomes Machado
+    
+ Descrição: recebe um número inteiro e diz se ele é positivo ou negativo.
+ 
+ 01/05/2020
+ ************************************************************************
+ */
 import java.util.Scanner;
-
-//o programa recebe um número inteiro e diz se ele é positivo ou negativo.
 
 public class Prog1 {
 

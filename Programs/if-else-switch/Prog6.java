@@ -1,7 +1,19 @@
+/*
+ *********************************************
+ Programa: Conta a pagar
+ 
+ Autor: Kaíque Gomes Machado
+    
+ Descrição: identifica se um valor de entrada
+ pertence a um dos intervalos definidos pelo 
+ programa.
+ 
+ 01/05/2020
+ *********************************************
+ */
+
 import java.util.Locale;
 import java.util.Scanner;
-
-//programa que identifica se um valor pertence a algum intervalo definido pelo programa.
 
 public class Prog6 {
 

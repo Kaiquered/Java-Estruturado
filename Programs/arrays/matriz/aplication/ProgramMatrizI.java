@@ -1,12 +1,22 @@
+/*
+ *************************************************************************
+ Programa: Matriz I
+ 
+ Autor: Kaíque Gomes Machado
+    
+ Descrição: lê uma matriz NxM de inteiros e um número inteiro contido na 
+ matriz, depois mostra os números a esquerda, a direita, acima e baixo do
+ número digitado.
+ 
+ 01/05/2020
+ *************************************************************************
+ */
+
 package matriz.aplication;
 
 import java.util.Scanner;
 
-/* Programa que lê uma matriz NxM de inteiros e um número inteiro pertencente a matriz
- * mostrando os números a esquerda, a diinputita, acima, e baixo do número digitado.
- */
-
-public class ProgramMatriz {
+public class ProgramMatrizI {
 
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);

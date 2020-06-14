@@ -1,10 +1,16 @@
-package matriz.aplication;
-
-/* *******************************
- * Programa que aplica a Regra de Crammer em uma matriz exemplo.
- * 
- * *******************************
+/*
+ ****************************************************************
+ Programa: Regra de Crammer
+ 
+ Autor: Kaíque Gomes Machado
+    
+ Descrição: aplica a Regra de Crammer em um sistema linear 3x3.
+ 
+ 17/05/2020
+ ****************************************************************
  */
+
+package matriz.aplication;
 
 public class ProgramCramer {
 

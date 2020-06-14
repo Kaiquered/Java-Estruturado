@@ -1,6 +1,16 @@
-import java.util.Scanner;
+/*
+ ********************************************
+ Programa: Par ou Ímpar?
+ 
+ Autor: Kaíque Gomes Machado
+    
+ Descrição: diz se um número é par ou ímpar.
+ 
+ 01/05/2020
+ ********************************************
+ */
 
-//programa que diz se um número é par ou ímpar.
+import java.util.Scanner;
 
 public class Prog2 {
 

@@ -1,6 +1,16 @@
-import java.util.Scanner;
+/*
+ ********************************************
+ Programa: Múltiplos
+ 
+ Autor: Kaíque Gomes Machado
+    
+ Descrição: diz se dois números sãos múltiplos.
+ 
+ 01/05/2020
+ ********************************************
+ */
 
-//programa que diz se dois números sãos múltiplos.
+import java.util.Scanner;
 
 public class Prog3 {
 

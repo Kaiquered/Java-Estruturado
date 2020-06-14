@@ -1,6 +1,17 @@
-import java.util.Scanner;
+/*
+ ********************************************
+ Programa: Duração do Jogo
+ 
+ Autor: Kaíque Gomes Machado
+    
+ Descrição: lê a hora inicial e final de um 
+ jogo para calcular a duração dele.
+ 
+ 01/05/2020
+ ********************************************
+ */
 
-//programa que lê a hora inicial e final de um jogo para calcular a duração do jogo
+import java.util.Scanner;
 
 public class Prog4 {
 

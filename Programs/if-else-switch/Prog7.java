@@ -1,6 +1,17 @@
-import java.util.Scanner;
+/*
+ ***************************************************
+ Programa: Encontrando o quadrante
+ 
+ Autor: Kaíque Gomes Machado
+    
+ Descrição: recebe coordenadas (x,y) para determina 
+ qual quadrante o ponto se encontra. 
+ 
+ 01/05/2020
+ ***************************************************
+ */
 
-//programa que recebe coordenadas (x,y) para determina qual quadrante o ponto se encontra. 
+import java.util.Scanner;
 
 public class Prog7 {
 

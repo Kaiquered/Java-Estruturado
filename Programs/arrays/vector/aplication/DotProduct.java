@@ -1,3 +1,15 @@
+/*
+ ********************************************************
+ Programa: DotProduct
+ 
+ Autor: Kaíque Gomes Machado
+    
+ Descrição: calcula o produto escalar entre dois vetores.
+ 
+ 06/05/2020
+ ********************************************************
+ */
+
 package vector.aplication;
 
 import java.util.Locale;

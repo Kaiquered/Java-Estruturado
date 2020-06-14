@@ -1,6 +1,17 @@
-import java.util.Scanner;
+/*
+ **********************************************
+ Programa: Conta a pagar
+ 
+ Autor: Kaíque Gomes Machado
+    
+ Descrição: lê o código de um produto e a 
+ quantidade dele para informa a conta a pagar.
+ 
+ 01/05/2020
+ **********************************************
+ */
 
-//programa que lê o código de um produto e a quantidade dele para informa a conta a pagar.
+import java.util.Scanner;
 
 public class Prog5 {
 
