@@ -5,7 +5,8 @@
  Autor: Kaíque Gomes Machado
     
  Descrição: lê a hora inicial e final de um  jogo 
- para calcular a duração dele.
+ para calcular a duração dele. Consedirando a hora
+ no formato 24h.
  
  01/05/2020
  ****************************************************
