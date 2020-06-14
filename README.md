@@ -24,4 +24,9 @@ WhileQ1 - [Validação de Senha](https://github.com/Kaiquered/Treinamento-Java-E
 WhileQ2 - [Álcool, Gasolina e Diesel](https://github.com/Kaiquered/Treinamento-Java-Estruturado/blob/master/Programs/loops/WhileQ2.java)
 WhileQ3 - [Encontrando o Quadrante 1.1](https://github.com/Kaiquered/Treinamento-Java-Estruturado/blob/master/Programs/loops/WhileQ3.java)
 
+### Arrays
+
+[Dot Product](https://github.com/Kaiquered/Treinamento-Java-Estruturado/blob/master/Programs/arrays/vector/aplication/DotProduct.java)
+[ProgramMatrizI](https://github.com/Kaiquered/Treinamento-Java-Estruturado/blob/master/Programs/arrays/matriz/aplication/ProgramMatrizI.java)
+[ProgrmaCramer](https://github.com/Kaiquered/Treinamento-Java-Estruturado/blob/master/Programs/arrays/matriz/aplication/ProgramCramer.java)
 
