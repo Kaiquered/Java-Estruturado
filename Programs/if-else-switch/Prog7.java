@@ -4,7 +4,7 @@
  
  Autor: Kaíque Gomes Machado
     
- Descrição: recebe coordenadas (x,y) para determina 
+ Descrição: recebe coordenadas (x,y) para determinar 
  qual quadrante o ponto se encontra. 
  
  01/05/2020

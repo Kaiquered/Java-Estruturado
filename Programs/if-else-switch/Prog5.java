@@ -53,7 +53,7 @@ public class Prog5 {
 			System.out.println("Total: R$ " + conta);
 			break;
 		default:
-			System.out.println("Digite um código de 1 a 5.");
+			System.out.println("Digite um código de 1 a 5!");
 		}
 
 		input.close();

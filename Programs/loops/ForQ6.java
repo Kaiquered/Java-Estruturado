@@ -24,13 +24,20 @@ public class ForQ6 {
 		System.out.print("Digite um número: ");
 		int n = input.nextInt();
 
-		System.out.printf("Divisores de %d:", n);
+		System.out.printf("Divisores de %d = ", n);
+		System.out.print(" {");
+		
 		for (int i = 1; i <= n; i++) {
 
-			if ((n % i) == 0) {
-				System.out.printf(" " + i);
-			}
+			if ((n % i) == 0 && i!=n) 
+				System.out.printf("%d, ", i);
+						
+			if ((n % i) == 0 && i==n)
+				System.out.printf("%d", i);
 		}
+		
+		System.out.print("}");
+		
 		input.close();
 	}
 }

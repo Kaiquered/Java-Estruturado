@@ -1,14 +1,14 @@
 /*
- ************************************************************************************
- Programa: Dividindo
+ *************************************************************************************
+ Programa: Dividindo Inteiros
  
  Autor: Kaíque Gomes Machado
     
- Descrição: lê N pares de números e mostra a divisão do primeiro pelo segundo. Se o 
- denominador for igual a zero, mostrar a mensagem "divisao impossivel".
+ Descrição: lê N pares de números inteiros e mostra a divisão do primeiro pelo 
+ segundo. Se o denominador for igual a zero, imprimi a mensagem "divisão impossível".
   
  01/05/2020
- ************************************************************************************
+ *************************************************************************************
  */
 
 import java.util.Locale;
@@ -28,7 +28,7 @@ public class ForQ4 {
 
 		for (int i = 0; i < n; i++) {
 
-			System.out.println("Digite os pares: ");
+			System.out.println("Digite os números: ");
 
 			int x = input.nextInt();
 			int y = input.nextInt();

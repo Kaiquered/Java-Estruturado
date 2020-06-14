@@ -4,8 +4,8 @@
  
  Autor: Kaíque Gomes Machado
     
- Descrição: identifica se um valor de entrada  pertence a um dos intervalos
- definidos pelo  programa.
+ Descrição: identifica se um valor de entrada pertence a um dos intervalos
+ definidos pelo programa.
  
  01/05/2020
  ***************************************************************************
@@ -28,14 +28,14 @@ public class Prog6 {
 		num = input.nextDouble();
 
 		if (num < 0 || num > 100) {
-			System.out.println("Fora do Intervalo");
+			System.out.println("Fora do Intervalo!");
 			System.exit(0);
 		}
 
-		if (num >= 0 && num <= 25) {
+		if (num >= 0 && num <= 25) 
 			System.out.println(num + " Está no Intervalo: [0,25]");
 
-		} else if (num > 25 && num <= 50)
+		else if (num > 25 && num <= 50)
 			System.out.println(num + " Está no Intervalo: (25,50]");
 
 		else if (num > 50 && num <= 75)

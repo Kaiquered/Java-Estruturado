@@ -1,6 +1,6 @@
 /*
  ********************************************************
- Programa: DotProduct
+ Programa: Dot Product
  
  Autor: Kaíque Gomes Machado
     

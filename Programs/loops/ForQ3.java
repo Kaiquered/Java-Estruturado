@@ -4,7 +4,7 @@
  
  Autor: Kaíque Gomes Machado
     
- Descrição: média ponderada de três números com pesos 2, e 3 e 5.
+ Descrição: média ponderada de três números com pesos 2, 3 e 5.
   
  01/05/2020
  *****************************************************************
