@@ -28,5 +28,5 @@ WhileQ3 -[Encontrando o Quadrante 1.1 ](https://github.com/Kaiquered/Treinamento
 
 Array1 -[Dot Product ](https://github.com/Kaiquered/Treinamento-Java-Estruturado/blob/master/Programs/arrays/vector/aplication/DotProduct.java)
 Array2 -[ProgramMatrizI ](https://github.com/Kaiquered/Treinamento-Java-Estruturado/blob/master/Programs/arrays/matriz/aplication/ProgramMatrizI.java)
-Array3 -[ProgrmaCramer ](https://github.com/Kaiquered/Treinamento-Java-Estruturado/blob/master/Programs/arrays/matriz/aplication/ProgramCramer.java)
+Array3 -[ProgramCramer ](https://github.com/Kaiquered/Treinamento-Java-Estruturado/blob/master/Programs/arrays/matriz/aplication/ProgramCramer.java)
 
