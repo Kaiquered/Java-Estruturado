@@ -1,6 +1,6 @@
 /*
  ******************************************************************
- Programa: Identificando Quadrante 1.1
+ Programa: Quadrante 1.1
  
  Autor: Kaíque Gomes Machado
     

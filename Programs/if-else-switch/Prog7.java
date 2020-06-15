@@ -1,6 +1,6 @@
 /*
  ***************************************************
- Programa: Encontrando o quadrante 1.0
+ Programa: Quadrante 1.0
  
  Autor: Kaíque Gomes Machado
     
