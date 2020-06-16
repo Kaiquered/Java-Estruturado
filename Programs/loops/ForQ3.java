@@ -1,10 +1,10 @@
 /*
  *****************************************************************
- Programa: Média Ponderada de três números.
+ Programa: Média Ponderada 1.1
  
  Autor: Kaíque Gomes Machado
     
- Descrição: média ponderada 
+ Descrição: média ponderada com os dados inseridos pelo usuário.
   
  01/05/2020
  *****************************************************************
@@ -26,7 +26,7 @@ public class ForQ3 {
 
 		int n = input.nextInt();
 
-		System.out.println("Digite os valor e seu respectivo peso:");
+		System.out.println("Digite o valor e seu respectivo peso:");
 
 		double somaMedia = 0;
 		int somaPeso = 0;
@@ -41,7 +41,7 @@ public class ForQ3 {
 			somaMedia += valor * peso;
 
 			if (i == (n - 1))
-				System.out.printf("Média Ponderada: %.1f%n", (somaMedia / somaPeso));
+				System.out.printf("Média Ponderada: %.2f%n", (somaMedia / somaPeso));
 
 		}
 
