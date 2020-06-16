@@ -4,7 +4,7 @@
  
  Autor: Kaíque Gomes Machado
     
- Descrição: média ponderada de três números com pesos 2, 3 e 5.
+ Descrição: média ponderada 
   
  01/05/2020
  *****************************************************************
@@ -21,20 +21,27 @@ public class ForQ3 {
 		Locale.setDefault(Locale.US);
 
 		Scanner input = new Scanner(System.in);
-		
-		System.out.println("Digite três números: ");
 
-		for (int i = 0; i < 3; i++) {
+		System.out.print("Média de quantos valores?");
 
-			double a = input.nextDouble();
+		int n = input.nextInt();
 
-			double b = input.nextDouble();
+		System.out.println("Digite os valor e seu respectivo peso:");
 
-			double c = input.nextDouble();
+		double somaMedia = 0;
+		int somaPeso = 0;
 
-			double mediaP = (a * 2.0 + b * 3.0 + c * 5.0) / 10.0;
+		for (int i = 0; i < n; i++) {
 
-			System.out.printf("Média Ponderada: %.1f%n", mediaP);
+			double valor = input.nextDouble();
+			int peso = input.nextInt();
+
+			somaPeso += peso;
+
+			somaMedia += valor * peso;
+
+			if (i == (n - 1))
+				System.out.printf("Média Ponderada: %.1f%n", (somaMedia / somaPeso));
 
 		}
 
