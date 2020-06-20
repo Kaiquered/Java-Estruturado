@@ -1,5 +1,5 @@
 # Lógica de Programação em Java
-Repositório para treinamento de Lógica de Programação em Java. Assuntos: estruturas de decisão, repetição e arrays.
+Repositório para treinamento de Lógica de Programação em Java. Assuntos: estruturas de decisão, de repetição e arrays.
 
 Códigos de Decisão    | Códigos de Repetição  | Códigos Arrays
 ----------------------| ----------------------|----------------------
