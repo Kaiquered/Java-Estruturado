@@ -10,7 +10,7 @@ Códigos de Decisão    | Códigos de Repetição  | Códigos Arrays
 5.[Conta a pagar](https://github.com/Kaiquered/Treinamento-Java-Estruturado/blob/master/Programs/if-else-switch/Prog5.java)|5.[Fatorial](https://github.com/Kaiquered/Treinamento-Java-Estruturado/blob/master/Programs/loops/ForQ5.java)|5.|
 6.[Está no Intervalo?](https://github.com/Kaiquered/Treinamento-Java-Estruturado/blob/master/Programs/if-else-switch/Prog6.java)|6.[Os Divisores](https://github.com/Kaiquered/Treinamento-Java-Estruturado/blob/master/Programs/loops/ForQ6.java)|6.|
 7.[Quadrante 1.0](https://github.com/Kaiquered/Treinamento-Java-Estruturado/blob/master/Programs/if-else-switch/Prog7.java)|7.[Quadrados e Cubos](https://github.com/Kaiquered/Treinamento-Java-Estruturado/blob/master/Programs/loops/ForQ7.java)|7.|
-8.-|8.[Validação de Senha](https://github.com/Kaiquered/Treinamento-Java-Estruturado/blob/master/Programs/loops/WhileQ1.java)|8.|
+8.[IMC](https://github.com/Kaiquered/Treinamento-Java-Estruturado/blob/master/Programs/if-else-switch/Prog8.java)|8.[Validação de Senha](https://github.com/Kaiquered/Treinamento-Java-Estruturado/blob/master/Programs/loops/WhileQ1.java)|8.|
 9.-|9.[Álcool, Gasolina e Diesel](https://github.com/Kaiquered/Treinamento-Java-Estruturado/blob/master/Programs/loops/WhileQ2.java)|9.|
 10.-|10.[Quadrante 1.1](https://github.com/Kaiquered/Treinamento-Java-Estruturado/blob/master/Programs/loops/WhileQ3.java)|10.|
 
